@@ -1,0 +1,8 @@
+.idea
+.env
+/target
+FirstJava.iml
+maven.iml
+/Model/target/
+/View/target/
+/logs/

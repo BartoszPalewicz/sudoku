@@ -1,0 +1,436 @@
+[DEBUG] 2022-01-15 00:18:34.548 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 00:18:34.553 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 00:19:24.960 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 00:19:24.963 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 00:19:52.189 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 00:19:52.194 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 00:20:41.396 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 00:20:41.399 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 00:21:04.969 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 00:21:04.973 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 00:39:56.051 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 00:39:56.057 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 00:47:50.366 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 00:47:50.372 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 00:49:08.569 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 00:49:08.721 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 00:49:08.762 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 00:49:08.794 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 00:49:08.811 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 00:49:08.850 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 00:49:08.869 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 00:49:08.901 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 00:49:08.903 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 00:51:33.750 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 00:51:33.927 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 00:51:33.960 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 00:51:33.986 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 00:51:34.005 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 00:51:34.042 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 00:51:34.060 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 00:51:34.096 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 00:51:34.099 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:08:01.116 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:08:01.256 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:08:01.260 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:08:01.320 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:08:01.375 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:08:01.400 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:08:01.417 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:08:01.432 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:08:01.447 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:08:01.461 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:08:01.489 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:08:01.492 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:11:03.660 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:11:03.828 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:11:03.833 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:11:03.885 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:11:03.948 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:11:03.974 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:11:03.998 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:11:04.015 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:11:04.053 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:11:04.072 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:11:04.102 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:11:04.104 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:13:10.499 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:13:10.658 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:13:10.660 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:13:10.721 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:13:10.785 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:13:10.833 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:13:10.867 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:13:10.900 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:13:10.938 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:13:10.954 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:13:10.983 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:13:10.985 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:14:05.612 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:05.755 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:05.759 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:05.833 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:05.897 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:05.929 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:05.947 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:05.969 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:06.013 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:06.035 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:06.070 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:14:06.073 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:14:58.432 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:58.562 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:58.565 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:58.602 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:58.628 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:58.651 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:58.668 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:58.684 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:58.726 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:58.743 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:14:58.777 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:14:58.780 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:15:10.194 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:15:10.356 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:15:10.358 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:15:10.412 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:15:10.455 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:15:10.485 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:15:10.502 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:15:10.518 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:15:10.535 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:15:10.566 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:15:10.568 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:18:51.176 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:18:51.356 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:18:51.359 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:18:51.360 [main] JdbcSudokuBoardDao - halo halo centralo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[DEBUG] 2022-01-15 01:18:51.420 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:18:51.486 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:18:51.517 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:18:51.517 [main] JdbcSudokuBoardDao - halo halo centralo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[DEBUG] 2022-01-15 01:18:51.535 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:18:51.535 [main] JdbcSudokuBoardDao - halo halo centralo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[DEBUG] 2022-01-15 01:18:51.552 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:18:51.590 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:18:51.617 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:18:51.619 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:19:15.454 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:15.629 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:15.633 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:15.667 [main] JdbcSudokuBoardDao - halo halo centralo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[DEBUG] 2022-01-15 01:19:15.695 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:15.724 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:15.749 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:15.763 [main] JdbcSudokuBoardDao - halo halo centralo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[DEBUG] 2022-01-15 01:19:15.767 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:15.785 [main] JdbcSudokuBoardDao - halo halo centralo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[DEBUG] 2022-01-15 01:19:15.793 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:15.853 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:15.969 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:19:15.974 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:19:21.252 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:21.384 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:21.387 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:21.430 [main] JdbcSudokuBoardDao - halo halo centralo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[DEBUG] 2022-01-15 01:19:21.461 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:21.513 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:21.551 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:21.577 [main] JdbcSudokuBoardDao - halo halo centralo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[DEBUG] 2022-01-15 01:19:21.581 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:21.598 [main] JdbcSudokuBoardDao - halo halo centralo !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[DEBUG] 2022-01-15 01:19:21.604 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:21.622 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:19:21.652 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:19:21.654 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:27:13.865 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:27:14.171 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:27:14.174 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:27:14.264 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:27:14.296 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:27:14.323 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:27:14.341 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:27:14.358 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:27:14.401 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:27:14.711 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:27:14.714 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:27:54.436 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:27:54.679 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:27:54.763 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:27:54.792 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:27:54.811 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:27:54.858 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:28:02.295 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:28:02.674 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:28:02.677 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:28:02.720 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:28:02.789 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:28:02.828 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:28:02.862 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:28:02.889 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:28:02.941 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:28:02.971 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:28:02.973 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:31:33.419 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:31:33.661 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:31:33.665 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:31:33.723 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:31:33.786 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:31:33.815 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:31:33.838 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:31:33.858 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:31:33.901 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:31:33.939 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:31:33.943 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:31:43.141 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:31:43.341 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:31:43.391 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:31:43.417 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:31:43.435 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:31:43.455 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:32:04.551 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:32:04.562 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:33:34.341 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:33:34.348 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:35:54.474 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:35:54.735 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:35:54.790 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:35:54.816 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:35:54.836 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:35:54.880 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:35:54.934 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:35:54.939 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:35:55.139 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:35:55.166 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:35:55.169 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:36:04.412 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:36:04.695 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:36:04.778 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:36:04.817 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:36:04.844 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:36:04.892 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:36:04.945 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:36:04.949 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:36:05.104 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:36:05.135 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:36:05.139 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:41:54.674 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:41:54.944 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:41:54.982 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:41:55.008 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:41:55.030 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:41:55.086 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:41:55.142 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:41:55.147 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:41:55.327 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:41:55.354 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:41:55.357 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:47:23.546 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:47:23.840 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:47:23.923 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:47:23.957 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:47:23.982 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:47:24.030 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:47:24.074 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:47:24.078 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:47:24.247 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:47:24.266 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:47:24.268 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:19.298 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:19.564 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:19.599 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:19.650 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:19.690 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:19.758 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:19.847 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:48:19.852 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:48:20.047 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:20.078 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:20.082 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:36.191 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:36.499 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:36.533 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:36.566 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:36.590 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:36.634 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:36.694 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:48:36.698 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:48:36.925 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:36.945 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:48:36.948 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:51:32.230 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:51:32.566 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:51:32.603 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:51:32.641 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:51:32.666 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:51:32.718 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:51:32.786 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:51:32.789 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:51:32.961 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:51:32.989 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:51:32.992 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:14.119 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:14.384 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:14.421 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:14.455 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:14.488 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:14.541 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:14.603 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:52:14.606 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:52:14.890 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:14.914 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:14.917 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:55.857 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:56.128 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:56.166 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:56.216 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:56.240 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:56.283 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:56.348 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:52:56.353 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 01:52:56.564 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:56.583 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:52:56.586 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:59:51.866 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:59:52.143 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:59:52.146 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:59:52.215 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:59:52.294 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:59:52.340 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:59:52.369 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:59:52.391 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:59:52.440 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 01:59:52.483 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 01:59:52.486 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 02:01:35.528 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:01:35.699 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:01:35.701 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:01:35.743 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:01:35.770 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:01:35.812 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:01:35.833 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:01:35.853 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:01:35.905 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:01:35.976 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 02:01:35.980 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 02:02:51.927 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:02:52.067 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:02:52.070 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:02:52.113 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:02:52.185 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:02:52.213 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:02:52.234 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:02:52.251 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:02:52.294 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:02:52.333 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 02:02:52.335 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 02:03:09.276 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:09.430 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:09.433 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:09.474 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:09.506 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:09.531 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:09.549 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:09.565 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:09.581 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:09.610 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 02:03:09.612 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 02:03:39.461 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:39.614 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:39.617 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:39.687 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:39.718 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:39.746 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:39.764 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:39.786 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:39.835 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:03:39.872 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 02:03:39.875 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 02:05:10.027 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:05:10.188 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:05:10.191 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:05:10.237 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:05:10.301 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:05:10.335 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:05:10.357 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:05:10.377 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:05:10.425 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:05:10.456 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 02:05:10.458 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 02:07:51.512 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:07:51.801 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:07:51.804 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:07:51.848 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:07:51.924 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:07:51.979 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:07:52.017 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:07:52.042 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:07:52.063 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:07:52.100 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 02:07:52.103 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 02:09:31.259 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:31.518 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:31.567 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:31.600 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:31.617 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:31.662 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:31.711 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 02:09:31.714 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 02:09:31.982 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:32.003 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:32.006 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:54.062 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:54.321 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:54.367 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:54.390 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:54.407 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:54.424 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:54.475 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-15 02:09:54.479 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-15 02:09:54.720 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:54.741 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-15 02:09:54.744 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-16 19:19:41.222 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-16 19:19:41.736 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-16 19:19:41.739 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-16 19:19:41.803 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-16 19:19:41.857 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-16 19:19:41.888 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-16 19:19:41.911 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-16 19:19:41.946 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-16 19:19:41.986 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-16 19:19:42.028 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-16 19:19:42.030 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-17 11:25:41.923 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:25:42.349 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:25:42.352 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:25:42.419 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:25:42.500 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:25:42.595 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:25:42.652 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:25:42.689 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:25:42.721 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:25:42.770 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-17 11:25:42.773 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-17 11:26:22.331 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:22.689 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:22.768 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:22.811 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:22.845 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:22.876 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:22.960 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-17 11:26:22.966 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-17 11:26:23.338 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:23.369 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:23.373 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:40.000 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:40.430 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:40.492 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:40.547 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:40.606 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:40.641 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:40.725 [main] FileSudokuBoardDao - file saved: testFile
+[DEBUG] 2022-01-17 11:26:40.731 [main] FileSudokuBoardDao - file loaded: testFile
+[DEBUG] 2022-01-17 11:26:40.940 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:40.977 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
+[DEBUG] 2022-01-17 11:26:40.983 [main] JdbcSudokuBoardDao - Nie udalo sie wczytac zmiennych srodowiskowych: io.github.cdimascio.dotenv.DotenvException: Could not find /.env on the classpath
